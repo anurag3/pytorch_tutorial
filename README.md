@@ -9,7 +9,7 @@ from PyData Berlin 2018.
 
 <hr>
 
-Table of Contents
+Tables of Contents
 --------------------------------------------------------------------------------
 
 ### PART 0 - Foreword
