@@ -8,7 +8,7 @@ from torchvision import transforms
 from torchvision import models
 from torchvision.datasets.folder import ImageFolder, default_loader
 from torchvision.datasets.utils import download_url, check_integrity
-from my_datasets import DogsCatsDataset
+from .my_datasets import DogsCatsDataset
 
 
 ################################################################################
